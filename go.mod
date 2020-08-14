@@ -1,3 +1,1 @@
-module github.com/gmencz/gotestmodules
-
-go 1.14
+module github.com/gmencz/gotestmodules/v2
