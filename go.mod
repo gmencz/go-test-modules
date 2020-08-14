@@ -1,3 +1,3 @@
-module github.com/gmencz/go-test-modules
+module github.com/gmencz/gotestmodules
 
 go 1.14
